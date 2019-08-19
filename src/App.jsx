@@ -9,7 +9,7 @@ function App() {
         <p
           style={{ color: 'white' }}
         >
-            Soon to be Hanabi.
+            Soon to be Hanabi. Pardon our dust
         </p>
       </header>
     </div>
