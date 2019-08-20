@@ -6,6 +6,7 @@ cache:
     - node_modules
 install:
   - npm install -g firebase-tools
+  - npm install -g eslint
 script:
   - npm run lint
   - npm install
